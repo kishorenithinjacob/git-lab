@@ -1,4 +1,1 @@
-This is example.txt (initial version).
-We will modify this file in future commits.
-Appending a second line on main branch.
-Feature branch note: added v2 greet in hello.py
+This is example.txt created for Experiment 2 PR demo.
