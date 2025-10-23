@@ -1,0 +1,2 @@
+This is example.txt (initial version).
+We will modify this file in future commits.
